@@ -7,8 +7,6 @@
 사용자가 왜 불편한지를 먼저 묻고, 그 답을 코드로 짜는 백엔드 개발자입니다.
 <br>사용자에게 실질적인 가치를 전달하는 서비스를 만드는 것을 목표로 합니다.
 
----
-
 ## ✨ Tech Stack
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
@@ -29,13 +27,9 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
----
-
 ## 📈 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=gogori6565&show_icons=true&theme=default&hide_border=true"/>
-
----
 
 ## 📫 Contact
 
